@@ -26,6 +26,5 @@ A responsive Spotify-like music player built with HTML, CSS, and JavaScript. The
 Clone or download the repository:
 
 
-* git clone https://https://github.com/KhanAhzam/spotify-clone.git
-
+* Run : ```git clone https://github.com/KhanAhzam/spotify-clone.git```
 * Open index.html in your browser to start the app.
