@@ -15,11 +15,11 @@ A responsive Spotify-like music player built with HTML, CSS, and JavaScript. The
 * Clean, user-friendly interface inspired by Spotify
 
 ## Technologies Used
-* HTML5
+* HTML
 
-* CSS3 (including Flexbox/Grid for responsive layout)
+* CSS
 
-* Vanilla JavaScript
+* JavaScript
 
 ## How to Use
 Clone the repository:
