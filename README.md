@@ -26,4 +26,4 @@ Clone the repository:
 
 
 * Run : ```git clone https://github.com/KhanAhzam/spotify-clone.git```
-* Open index.html in your browser to run the project.
+* Open index.html in your browser to run this project.
